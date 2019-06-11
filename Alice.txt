@@ -1,5 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-This is the second line.
 This is the text that will conflict.
 This will result in a conflict.
 
